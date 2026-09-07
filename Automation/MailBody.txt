@@ -1,0 +1,8 @@
+Jay Ganesh
+The Duplicate Removal has been completed succesfullyStarting Time:Fri Jul 31 22:05:41 2026
+
+
+ Total Files Scanned:355
+Total Duplicate files:7
+Total Duplicate files Deleted:7
+Time of Deletion:Fri Jul 31 22:05:41 2026
