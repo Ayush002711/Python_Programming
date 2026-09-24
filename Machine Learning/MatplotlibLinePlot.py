@@ -1,0 +1,30 @@
+import matplotlib.pyplot as plt
+
+def main():
+    X=[1,2,3,4,5]
+    Y=[10,25,18,35,40]
+
+    plt.plot(
+        X,
+        Y,
+        marker ="o",
+        linestyle="--",
+        linewidth=2,
+        markseize = 7,
+        label="Marks"
+    )
+
+    plt.title("Marvellous Line Plot")
+    plt.xlabel("Student NUmber")
+    plt.ylabel("Marks")
+
+    plt.grid(True)
+
+    plt.legend()
+
+    plt.show()
+
+if __name__=="__main__":
+    main()
+
+
